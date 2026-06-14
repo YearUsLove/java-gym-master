@@ -1,4 +1,4 @@
-package ru.practicum.gym.model;
+package ru.yandex.practicum.gym.model;
 
 public class TimeOfDay implements Comparable<TimeOfDay> {
 

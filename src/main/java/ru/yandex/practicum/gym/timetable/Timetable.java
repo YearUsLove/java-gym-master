@@ -1,6 +1,6 @@
-package ru.practicum.gym.timetable;
+package ru.yandex.practicum.gym.timetable;
 
-import ru.practicum.gym.model.*;
+import ru.yandex.practicum.gym.model.*;
 import java.util.*;
 
 public class Timetable {

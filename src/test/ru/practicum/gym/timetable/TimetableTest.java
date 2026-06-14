@@ -1,7 +1,7 @@
-package ru.practicum.gym.timetable;
+package ru.yandex.practicum.gym.timetable;
 
 import org.junit.jupiter.api.Test;
-import ru.practicum.gym.model.*;
+import ru.yandex.practicum.gym.model.*;
 import java.util.*;
 import static org.junit.jupiter.api.Assertions.*;
 

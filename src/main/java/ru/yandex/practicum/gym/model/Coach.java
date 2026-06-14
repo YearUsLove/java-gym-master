@@ -1,4 +1,4 @@
-package ru.practicum.gym.model;
+package ru.yandex.practicum.gym.model;
 
 import java.util.Objects;
 
